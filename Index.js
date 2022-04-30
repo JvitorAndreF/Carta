@@ -19,7 +19,7 @@ function ler(){
     let $perspe = document.getElementById('#perspectiva');
 
     $carta.style.transition='all .5s 1s';
-    $carta.style.top='-270px';
+    $carta.style.top='-300px';
     $carta.style.height='500px';
 
     $perspe.style.transition = 'all 1s';
